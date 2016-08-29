@@ -1,0 +1,1 @@
+Get-ExecutionPolicy -List | Format-Table -AutoSize

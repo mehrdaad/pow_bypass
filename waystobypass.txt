@@ -1,0 +1,16 @@
+1. Paste script into interactive console
+2. Echo Script pipe to powershell standard
+3. Read Script from file, pipe to powershell standard in
+	(Get-Content, Type)
+4. Download Script from URL, execute with invoke expression
+5. Use command switch
+6. Use encoded command switch (base64 encoded)
+7. Invoke Command (remote)
+8. Invoke Expression
+9. Use Bypass Execution Policy Flag
+10. Use Unrestricted Policy Flag
+11. Use Remote-Signed Execution Policy Flag
+12. Swap AuthorisationManager
+13. Set ExecPolicy for Process Scope
+14. Set ExecPolicy for CurrentUser Scope
+15. Set ExecPollicy for CurrentUser by Registry (keys have not been checked)

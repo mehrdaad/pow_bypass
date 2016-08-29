@@ -1,0 +1,2 @@
+[HKEY_CURRENT_USER\Software\MicrosoftPowerShell\1\ShellIds\Microsoft.Powershell]
+"ExecutionPolicy"=sz:"Unrestricted"

@@ -1,0 +1,1 @@
+powershell -executionpolicy UnRestricted -File .\runme.ps1

@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -file .\runme.ps1
